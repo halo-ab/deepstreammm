@@ -1,7 +1,7 @@
 export const config = { runtime: "edge" };
 
 const PLAYLIST_URL =
-  "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json";
+  "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u";
 
 export default async function handler() {
   try {
