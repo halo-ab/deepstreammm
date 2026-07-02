@@ -30,7 +30,7 @@ let hls = null;
 let networkRetries = 0;
 
 const PLAYLIST_URL =
-  "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u";
+  "https://raw.githubusercontent.com/sm-monirulislam/FanCode-Auto-Update-Playlist/refs/heads/main/fancode_in.m3u";
 const PLAYLIST_REFRESH_MS = 5 * 60 * 1000;
 
 /** @param {string} url */
